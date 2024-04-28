@@ -5,7 +5,7 @@
 </p>-->
 
 <h3 align="center">Hi! I'm Kisalaya</h3>
-<h3 align="center">Data Engineer</h3>
+<h3 align="center">Data Engineer at Zyient , Ex- Data Engineer at Walmart</h3>
 
 <h3 align="center">About Me :</h3>  
  <p>
@@ -18,7 +18,7 @@
 
 <h3 align="center">Connect with me:</h3>  
 <div align="center">
-<a href="https://www.linkedin.com/in/dogukanulu/" target="blank">
+<a href="/" target="blank">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/>
 </a>
 
