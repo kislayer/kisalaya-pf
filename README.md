@@ -22,21 +22,13 @@
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/>
 </a>
 
-<a href="https://medium.com/@dogukannulu" target="blank">
-<img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" style="height: 3rem; background-color:white"/>
-</a>
 
-<a href="mailto:dogukannulu@gmail.com" target="blank">
+
+<a href="mailto:kisalaya.kishore.iiita@gmail.com" target="blank">
 <img src="img/mail.png" style="height: 3rem"/>
 </a>
 
-<a href="https://dogukanulu.dev/" target="blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Eo_circle_blue_letter-d.svg" style="height: 3rem"/>
-</a>
 
-<a href="https://www.upwork.com/freelancers/~01e24ff1511cbf7aea" target="blank">
-<img src="https://www.svgrepo.com/show/331630/upwork.svg" style="height: 3rem"/>
-</a>
 
 </div>
 
