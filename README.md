@@ -5,7 +5,7 @@
 </p>-->
 
 <h3 align="center">Hi! I'm Kisalaya</h3>
-<h3 align="center">Data Engineer at Zyient , Ex- Data Engineer at Walmart</h3>
+<h3 align="center">Data Engineer at <img src="https://media.licdn.com/dms/image/D4D0BAQFgXPEIUwgwzg/company-logo_200_200/0/1697123610142/zyient_logo?e=2147483647&v=beta&t=YxFlghTstbX6MHU0qpq3amqvTYxlLBDmwA2BtzUrd_s" alt="Zyient" style="height: 1.5rem;"/> , Ex- Data Engineer at <img src="https://banner2.cleanpng.com/20180821/qqz/kisspng-logo-vector-graphics-brand-walmart-portable-networ-graphics-for-les-nombreuses-graphics-www-graphicsb-5b7c24a0156ef9.6079912815348624960878.jpg" alt="Walmart" style="height: 1.5rem;"/></h3>
 
 <h3 align="center">About Me :</h3>  
  <p>
